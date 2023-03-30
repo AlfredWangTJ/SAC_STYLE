@@ -1,0 +1,14 @@
+@font-face {
+        font-family: 'Chinese Font Test';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.woff2) format('woff2');
+      }
+     @font-face {
+        font-family: 'Chinese Font Test';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.woff2) format('woff2');
+      }
