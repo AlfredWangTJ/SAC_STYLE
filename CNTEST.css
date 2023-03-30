@@ -5,17 +5,18 @@
         font-weight: 400;
         font-display: swap;
         src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.ttf) format('truetype');
-        unicode-range: U+4E00-9FA5, U+9FA6-9FCB;
+/*      unicode-range: U+4E00-9FA5, U+9FA6-9FCB; */
       }
-      /* latin-ext */
+      /* latin-ext 
       @font-face {
         font-family: 'Chinese Font Test';
         font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.ttf) format('truetype');
-        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;  
       }
+*/
 
 
 
