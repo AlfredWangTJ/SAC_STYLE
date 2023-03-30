@@ -1,14 +1,21 @@
      @font-face {
-        font-family: 'Chinese Font Test';
+        font-family: 'Chinese Handwriting';
         font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.ttf) format('truetype');
       }
      @font-face {
-        font-family: 'Chinese Font Test';
-        font-style: normal;
+        font-family: 'Chinese Handwriting';
+        font-style: bold;
         font-weight: 700;
+        font-display: swap;
+        src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.ttf) format('truetype');
+      }
+     @font-face {
+        font-family: 'Chinese Handwriting';
+        font-style: italic;
+        font-weight: 400;
         font-display: swap;
         src: url(https://alfredwangtj.github.io/SAC_STYLE/CNTEST.ttf) format('truetype');
       }
